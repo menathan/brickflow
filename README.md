@@ -176,5 +176,3 @@ brickflow projects deploy --project hello-world-brickflow -e local
 
 ### Examples
 Refer to the [examples](https://github.com/Nike-Inc/brickflow/tree/main/examples/brickflow_examples) for more examples.
-
-
